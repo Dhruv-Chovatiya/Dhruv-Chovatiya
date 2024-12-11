@@ -39,9 +39,9 @@
 ### Experienced Handy Tool
 
 <p align="left">
-<img src="https://commons.wikimedia.org/wiki/File:Ivanti_Logo_RGB_red.svg" alt="Ivanti" title="Ivanti EPM" title="Ivanti" width="40" height="40"/>
-<img src="https://www.google.com/imgres?q=SCCM%20logo%20png&imgurl=https%3A%2F%2Fpei.com%2Fwp-content%2Fuploads%2F2017%2F11%2FMicrosoft-System-Center-Configuration-Manager-logo-e1529591849473.png&imgrefurl=https%3A%2F%2Fpei.com%2Funderstanding-system-center-configuration-manager%2F&docid=CrVH-azrMVrR_M&tbnid=5wZW36vaNB8vHM&vet=12ahUKEwjLvMHsxqCKAxX44DQHHb6aCBkQM3oECFEQAA..i&w=1200&h=697&hcb=2&ved=2ahUKEwjLvMHsxqCKAxX44DQHHb6aCBkQM3oECFEQAA" alt="SCCM" title="Microsoft SCCM" title="SCCM" width="40" height="40"/> 
-<img src="https://www.google.com/imgres?q=Intune%20logo%20png&imgurl=https%3A%2F%2Fsam360.com%2Fwp-content%2Fuploads%2F2023%2F01%2FMicrosoft-Intune-Logo.png&imgrefurl=https%3A%2F%2Fsam360.com%2Finventory%2Fsupercharge-your-intune-inventory%2F&docid=AJ2VNprAq1GlOM&tbnid=j2eqvJmvMUeMMM&vet=12ahUKEwi0_82Kx6CKAxUwslYBHd0NJo4QM3oECBwQAA..i&w=500&h=350&hcb=2&ved=2ahUKEwi0_82Kx6CKAxUwslYBHd0NJo4QM3oECBwQAA" alt="Intune" title="Microsoft Intune" title="Intune" width="40" height="40"/> 
+<img src="https://img.shields.io/badge/Ivanti%20EPM-%23000000.svg?style=for-the-badge&logo=ivanti&logoColor=white" alt="Ivanti" title="Ivanti EPM" title="Ivanti" width="40" height="40"/>
+<img src="https://img.shields.io/badge/SCCM-%230072C6.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCCM" title="Microsoft SCCM" title="SCCM" width="40" height="40"/> 
+<img src="https://img.shields.io/badge/Microsoft%20Intune-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune" title="Microsoft Intune" title="Intune" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/solarwinds/solarwinds-icon.svg" alt="Solarwind" title="Solarwind" title="SolarWind" width="40" height="40"/> 
 </p>
 
