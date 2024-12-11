@@ -22,7 +22,7 @@
 
 ##### 🧾 Certifications I have Accomplished
 
-- 🎖 Microsoft Certified: Azure Fundamentals [AZ-900] (https://learn.microsoft.com/api/credentials/share/en-us/DhruvkumarChovatiya-9530/81E79C025D32F78A?sharingId=697DCDB44E007D2D)
+- 🎖 Microsoft Certified: Azure Fundamentals [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/DhruvkumarChovatiya-9530/81E79C025D32F78A?sharingId=697DCDB44E007D2D)
 
 - 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/CJFQKGVM)
 
