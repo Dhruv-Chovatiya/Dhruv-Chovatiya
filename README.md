@@ -1,15 +1,18 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
-<h1 align="center">Hi 👋, I'm Dhruv Chovatiya from India🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Dhruv Chovatiya 🌀 from India 🇮🇳</h1>
 
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
-- 🔭 I’m currently working on [Terraform-for-AWS](https://github.com/AmanPathak-DevOps/Terraform-for-AWS)
+- 🏢 I’m currently working in [Tech Mahindra](https://www.techmahindra.com/) as **Associate Software Engineer**
 
+- 💡 Hashtag that describes me **`#DevOpsPro`**
 
 - 💬 Ask me about **DevOps, Ivanti End Point Management, SCCM, Intune, Patch Management, End User Computing, Networking, Troubleshoot, Cloud Computing (Microsoft Azure, AWS), Kubernetes, Python, Linux & Windows System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
+
+- 📝 I'm regularly learning the new things.
 
 - 📫 How to reach me **dhruvchovatiya63@gmail.com**
 
