@@ -20,6 +20,19 @@
 
 - 📄 Know about my experiences & more about me (https://www.linkedin.com/in/chovatiya-dhruv-6353463200)
 
+##### 🧾 Certifications I have Accomplished
+
+- 🎖 Microsoft Certified: Azure Fundamentals [AZ-900] (https://learn.microsoft.com/api/credentials/share/en-us/DhruvkumarChovatiya-9530/81E79C025D32F78A?sharingId=697DCDB44E007D2D)
+
+- 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/CJFQKGVM)
+
+- 🎖 Various Certification of Docker and Kubernetes - Pluralsight
+
+- 🎖 AWS Concepts - LinuxAcademy
+
+- 🎖 Packaging Applications using Helm - Pluralsight and many more...
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
